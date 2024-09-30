@@ -1,0 +1,24 @@
+body{background-color: darkkhaki;
+}
+h1{text-align: center;
+}
+.p1 {border-style: double;
+border-color:  cyan;
+border-width: 5px;
+}
+.p2{text-align: right;
+border-style: groove;
+border-color: greenyellow;
+border-width: 3px;
+}
+.p3{text-align: center;
+    border-style: dashed;
+    border-color: salmon;
+    border-width: 6px;
+    }
+
+    .p4{text-align: left;
+        border-style: double;
+        border-color: rgb(93, 105, 206);
+        border-width: 5px;
+        }
