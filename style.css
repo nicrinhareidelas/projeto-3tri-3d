@@ -1,24 +1,24 @@
-body{background-color: darkkhaki;
+body{background-color: rgb(248, 241, 134);
 }
 h1{text-align: center;
 }
 .p1 {border-style: double;
-border-color:  cyan;
-border-width: 5px;
+border-color:  rgb(64, 168, 168);
+border-width: 2px;
 }
 .p2{text-align: right;
 border-style: groove;
-border-color: greenyellow;
-border-width: 3px;
+border-color: rgb(11, 180, 82);
+border-width: 4px;
 }
 .p3{text-align: center;
     border-style: dashed;
-    border-color: salmon;
-    border-width: 6px;
+    border-color: rgb(180, 19, 1);
+    border-width: 3px;
     }
 
     .p4{text-align: left;
         border-style: double;
-        border-color: rgb(93, 105, 206);
-        border-width: 5px;
+        border-color: rgb(148, 153, 201);
+        border-width: 6px;
         }
